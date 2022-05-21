@@ -1,0 +1,127 @@
+{
+    "main": {
+        "name": "Likhith JSC",
+        "occupation": "Full Stack Developer",
+        "description": "I eat, sleep and breathe React",
+        "image": "profilepic.jpg",
+        "bio": "Hi there! I am Likhith! I've been coding for an year now as a Full Stack developer. I am working on React Projects right now while developing my skills.I really like React Js and I want to learn React Native,Blockchain Application Development and core Blockchain Development as well. I have developed a range of cool builds and Apps using React Js. I am learning and trying to get hands-on experience and learn the skills that are required to succeed in the real-world.",
+        "contactmessage": "Get in touch with Me if you are a React developer as well. ",
+        "email": "likhithjsc@gmail.com",
+        "phone": "91-9010129906",
+        "address": {
+            "street": "Shamshiguda kukatpally",
+            "city": "Hyderabad",
+            "state": "Telangana",
+            "zip": "500047"
+        },
+        "website": "https://github.com/likhith68",
+        "resumedownload": "https://www.linkedin.com/in/likhith-jsc-393369215/",
+        "social": [{
+                "name": "facebook",
+                "url": "https://www.facebook.com/likhithjsc",
+                "className": "fa fa-facebook"
+            },
+            {
+                "name": "linkedin",
+                "url": "https://www.linkedin.com/in/likhith-jsc-393369215/",
+                "className": "fa fa-linkedin"
+            },
+            {
+                "name": "instagram",
+                "url": "https://www.instagram.com/likhith1005/",
+                "className": "fa fa-instagram"
+            },
+            {
+                "name": "github",
+                "url": "https://github.com/likhith68",
+                "className": "fa fa-github"
+            }
+        ]
+    },
+    "resume": {
+        "skillmessage": "My Programming Language Proficiency",
+        "education": [{
+            "school": "Gitam University Hyderabad",
+            "degree": "Bachelor's Degree, Electronics and Communication engineer",
+            "graduated": "July 2022",
+            "description": "Graduated with First Class Honours"
+        }],
+        "work": [{
+            "company": "Virtusa",
+            "title": "Full Stack Developer",
+            "years": "Jan 2022 - Present",
+            "description": "Cloning all the apps possible. On the way to clone the world!"
+        }],
+        "skills": [{
+                "name": "Java",
+                "level": "78%"
+            },
+            {
+                "name": "C and C++",
+                "level": "70%"
+            },
+            {
+                "name": "ReactJs",
+                "level": "60%"
+            },
+            {
+                "name": "Angular",
+                "level": "50%"
+            },
+            {
+                "name": "Python",
+                "level": "45%"
+            },
+            {
+                "name": "Git",
+                "level": "40%"
+            },
+            {
+                "name": "Web Development",
+                "level": "65%"
+            },
+            {
+                "name": "JavaScript",
+                "level": "59%"
+            }
+        ]
+    },
+    "portfolio": {
+        "projects": [{
+                "title": "Google Clone (React JS)",
+                "category": "",
+                "image": "Google_clone.png",
+                "url": "https://github.com/likhith68/Google-Clone"
+            },
+            {
+                "title": "WhatsApp Clone (React JS)",
+                "category": "",
+                "image": "WhatsApp_clone.png",
+                "url": "https://github.com/likhith68/WhatsApp-Clone"
+            },
+            {
+                "title": "Slack Clone (React JS)",
+                "category": "",
+                "image": "Slack_clone.png",
+                "url": "https://github.com/likhith68/Slack-Clone"
+            },
+            {
+                "title": "Twitter Clone (React JS)",
+                "category": "",
+                "image": "Twitter_clone.png",
+                "url": "https://github.com/likhith68/Twitter-Clone"
+            }
+        ]
+    },
+    "testimonials": {
+        "testimonials": [{
+                "text": "Follow me on Instagram",
+                "url": "https://www.instagram.com/likhith1005/"
+            },
+            {
+                "text": "Check out my Github",
+                "user": ""
+            }
+        ]
+    }
+}
