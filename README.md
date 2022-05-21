@@ -48,4 +48,4 @@ Once all the formatting and data input is finalised, run `npm run build`. This w
 
 ##### Original Idea
 
-<a href="https://github.com/tbakerx/react-resume-template/blob/master/README.md">Inspiration from Tim Baker (tbakerx)</a>
+<a href="https://github.com/sonnysangha/Resume-Portfolio-Starter-pack">Inspiration from Sonny Sangha</a>
